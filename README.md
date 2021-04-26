@@ -23,3 +23,5 @@ We are planning to prototype the static parts first and later think for dynamic 
  
  # Site hosting links
 
+# Update 0.1
+<i>We have setup <a href = "cloudinary.com">Cloudinary cdn</a> for serving high quality media files</i>
