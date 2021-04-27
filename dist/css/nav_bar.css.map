@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../scss/nav_bar.scss"
+    ],
+    "names": [],
+    "file": "nav_bar.css"
+}
