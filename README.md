@@ -25,3 +25,6 @@ We are planning to prototype the static parts first and later think for dynamic 
 
 # Update 0.1
 <i>We have setup <a href = "cloudinary.com">Cloudinary cdn</a> for serving high quality media files</i>
+
+# Update 0.2
+<i>We have setup <a href = "jsdelivr.com">JsDelivr</a>for serving small images like icons, snippets, js animations</i>
