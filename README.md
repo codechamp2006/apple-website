@@ -24,10 +24,10 @@ We are planning to prototype the static parts first and later think for dynamic 
  # Site hosting links
 
 # Update 0.1
-<i>We have setup <a href = "cloudinary.com">Cloudinary cdn</a> for serving high quality media files</i>
+<i>We have setup <a href = "https://cloudinary.com">Cloudinary cdn</a> for serving high quality media files</i>
 
 # Update 0.2
-<i>We have setup <a href = "jsdelivr.com">JsDelivr</a>for serving small images like icons, snippets, js animations</i>
+<i>We have setup <a href = "https://jsdelivr.com">JsDelivr</a>for serving small images like icons, snippets, js animations</i>
 
 # Update 0.25
 <i>We have setup the template of the Github repository</i>
