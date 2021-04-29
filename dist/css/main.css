@@ -1,15 +1,32 @@
-.items {
+.navbar {
+  background-color: rgba(0, 0, 0, 0.8);
+}
+
+.navbar .items {
   top: 10vh;
   padding-left: 1rem;
 }
 
-.items .list {
+.navbar .items .list {
   display: flex;
   flex-direction: row;
 }
 
-.items .list li {
+.navbar .items .list li {
+  color: rgba(255, 255, 255, 0.8);
   margin: -2.5rem 1.55rem;
   list-style: none;
+  transition: 0.3s ease-in-out;
+}
+
+.navbar .items .list li:hover {
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
+  color: white;
+}
+
+.main {
+  top: 0;
+  left: 0;
 }
 /*# sourceMappingURL=main.css.map */

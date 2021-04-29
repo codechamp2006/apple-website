@@ -1,12 +1,25 @@
-.items{
+@import "./transitions";
+
+
+.navbar {
+    background-color: rgba(0, 0, 0, 0.8);
+  .items {
     top: 10vh;
     padding-left: 1rem;
-    .list{
-        display:flex;
-        flex-direction: row;
-        li{
-            margin: -2.5rem 1.55rem;
-            list-style:none;
+    .list {
+      display: flex;
+      flex-direction: row;
+      li {
+          color: rgba(255, 255, 255, 0.8);
+        margin: -2.5rem 1.55rem;
+        list-style: none;
+        @include nav_transition;
+        &:hover {
+            cursor: pointer;
+            @include nav_transition;
+          color: white;
         }
+      }
     }
+  }
 }
