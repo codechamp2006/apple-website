@@ -1,0 +1,12 @@
+.items{
+    top: 10vh;
+    padding-left: 1rem;
+    .list{
+        display:flex;
+        flex-direction: row;
+        li{
+            margin: -2.5rem 1.55rem;
+            list-style:none;
+        }
+    }
+}

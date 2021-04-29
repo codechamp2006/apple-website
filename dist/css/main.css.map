@@ -1,9 +1,9 @@
 {
     "version": 3,
-    "mappings": "ACAA,AAAA,KAAK,CAAA;EACD,MAAM,EAAE,OAAO;EACf,UAAU,EAAE,gBAAgB;CAK/B;;AAPD,AAGI,KAHC,AAGA,MAAM,CAAA;EACH,UAAU,EAAE,gBAAgB;EAC5B,KAAK,EAAE,IAAI;CACd",
+    "mappings": "ACAA,AAAA,MAAM,CAAA;EACF,GAAG,EAAE,IAAI;EACT,YAAY,EAAE,IAAI;CASrB;;AAXD,AAGI,MAHE,CAGF,KAAK,CAAA;EACD,OAAO,EAAC,IAAI;EACZ,cAAc,EAAE,GAAG;CAKtB;;AAVL,AAMQ,MANF,CAGF,KAAK,CAGD,EAAE,CAAA;EACE,MAAM,EAAE,eAAe;EACvB,UAAU,EAAC,IAAI;CAClB",
     "sources": [
         "../../scss/main.scss",
-        "../../scss/nav_bar.scss"
+        "../../scss/_navbar.scss"
     ],
     "names": [],
     "file": "main.css"
